@@ -1,0 +1,46 @@
+
+.text-center ,.text-heading, .form{
+    text-align: center;
+}
+
+.fullwidth{
+    width: 82 ;
+}
+
+.lastname {
+    margin-left: 20px;
+}
+.buttom-signin{
+     margin-left: 20px;
+}
+/*  .text-center,
+.text-heading {
+    margin-left: 9.3rem;
+} */
+
+/* .fullwidth {
+    width: 82%;
+    margin-left: 10px;
+}
+
+.lastname {
+    width: 40%;
+    margin-left: 6px
+}
+
+.fisrtname {
+    margin-left: 10px;
+
+    width: 40%;
+}
+
+.row {
+    margin-left: 60px;
+}
+
+.buttom-signup {
+    margin-left: 6rem;
+}
+.buttom-signin{
+    margin-left: 4rem;
+}   */
